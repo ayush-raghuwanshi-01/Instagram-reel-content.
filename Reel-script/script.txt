@@ -1,0 +1,64 @@
+📋 Scene-by-Scene Breakdown (25s total)
+
+SCENE 1 — HOOK (0–3s)
+
+VO: "Agar tumhare school mein abhi tak yeh nahi hai, toh abhi yeh reel apne school ko bhej do."
+Visual: Avatar, close-up to camera, serious/urgent tone, no smile, slight forward lean — direct eye contact to stop the scroll.
+Audio: VO only, no music yet (silence before the beat adds weight).
+
+SCENE 2 — REVEAL (3–6s)
+
+VO: "Yeh hai School Management App aur Website — jo poora school digital banata hai."
+Visual: Snap-zoom transition from avatar's face into a phone screen; app icon taps open, dashboard loads with a smooth slide-in animation.
+Audio: Upbeat trending background track starts here, low volume under VO.
+
+SCENE 3 — FEATURE MONTAGE (6–18s, screen recording + screenshots)
+
+6–9s VO: "Attendance — ek tap mein mark, register ki zaroorat nahi."
+Visual: Screen recording — attendance screen, tap animation, checkmarks filling in. Overlay text: "ATTENDANCE ✅"
+9–12s VO: "Fees aur payments — track aur transparent."
+Visual: Fees/payments screen, numbers updating, payment-success animation. Overlay text: "FEES 💰"
+12–15s VO: "Parents ko har update — seedha notification pe."
+Visual: Phone notification pop-up animation (parent's phone POV). Overlay text: "PARENT ALERTS 🔔"
+15–18s VO: "Aur school ki apni website — professional aur trustworthy."
+Visual: Website homepage scroll, clean design visible. Overlay text: "SCHOOL WEBSITE 🌐"
+Each beat: fast snap-zoom cut, punchy transition on the beat drop of the music, overlay text lands exactly as the word is spoken.
+
+SCENE 4 — SCALE/TRUST (18–22s)
+
+VO: "100 students ho ya 2000 — same app, same speed, sab kuch ek jagah."
+Visual: Dashboard zoom-out, full overview screen, subtle number-counter animation if available.
+
+SCENE 5 — CTA (22–25s)
+
+VO: "Demo dekhna hai? Link caption mein hai — abhi check karo."
+Visual: Cut back to avatar, warm confident smile, pointing downward. Overlay text: "LINK IN CAPTION ⬇️"
+🎥 Complete Generation Prompt
+Create a 25-second vertical (9:16) Instagram Reel with an AI avatar founder + screen recording montage.
+
+AVATAR SEGMENTS (talking head, direct to camera, Hinglish dialogue):
+Segment 1 (0-3s): Serious, urgent tone, slight forward lean, direct eye contact.
+Dialogue: "Agar tumhare school mein abhi tak yeh nahi hai, toh abhi yeh reel apne school ko bhej do."
+
+Segment 2 (22-25s): Warm, confident smile, pointing downward toward caption.
+Dialogue: "Demo dekhna hai? Link caption mein hai — abhi check karo."
+
+SCREEN RECORDING SEGMENTS (3-22s):
+- 3-6s: Snap-zoom transition from avatar into phone screen; app icon tap; dashboard slide-in reveal.
+- 6-9s: Attendance screen — tap-to-mark animation, checkmarks filling. Text overlay "ATTENDANCE ✅".
+- 9-12s: Fees/payments screen — numbers updating, payment success animation. Text overlay "FEES 💰".
+- 12-15s: Parent notification pop-up on phone screen. Text overlay "PARENT ALERTS 🔔".
+- 15-18s: School website homepage scroll, clean modern UI. Text overlay "SCHOOL WEBSITE 🌐".
+- 18-22s: Dashboard zoom-out, full overview shot, subtle counter animation ("100 to 2000 students").
+
+STYLE: Fast-paced, punchy zoom/snap cuts on every beat, trending upbeat background track (low under VO), bold sans-serif on-screen text synced to each spoken word, high contrast, mobile-native feel (not corporate/stock).
+
+ASPECT RATIO: 9:16
+TOTAL DURATION: 25 seconds
+📄 Caption (updated — link in caption, not bio)
+
+"Agar tumhare school mein abhi tak yeh nahi hai, toh yeh reel apne school ko bhej do. 👀 School Management App + Website — attendance, fees, parent alerts, sab ek jagah. 📲 Demo try karo 👉 [prototype link] Apni school ke liye banwana hai? Comment 'SCHOOL' 👇"
+
+🏷️ Hashtags
+
+#SchoolManagementSoftware #EdTechIndia #DigitalIndia #StartupIndia #BhopalBusiness #Bhopal #SmallBusinessIndia #CustomSoftware #ZenvioLabs #TechForSchools #SchoolApp #IndianStartup #MPBusiness
