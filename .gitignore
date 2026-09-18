@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+production/frames/
+production/_*.mp4
+production/bed*.wav
+production/vo_25.wav
+production/school_app_reel.mp4
